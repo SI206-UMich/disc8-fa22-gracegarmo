@@ -18,7 +18,6 @@ def getAdmissionsInfo2019(soup):
     pass
 
 
-
 def main():
     # Task 1: Create a BeautifulSoup object and name it soup. Refer to discussion slides or lecture slides to complete this
 
